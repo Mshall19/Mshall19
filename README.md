@@ -35,15 +35,8 @@ const test = (str) => str + 'test';
 <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
 </p>
 
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+
 
 Credit: [Mshall19](https://github.com/Mshall19)
 

@@ -35,7 +35,7 @@ const test = (str) => str + 'test';
 <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
 </p>
 
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+[![Stargazers repo roster for @waylonwalker/Mshall19](https://reporoster.com/stars/waylonwalker/Mshall19)](https://github.com/Mshall19/Mshall19/stargazers)
 
 
 Credit: [Mshall19](https://github.com/Mshall19)

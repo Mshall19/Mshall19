@@ -10,6 +10,6 @@ print("Hi my name is Juan David Perez")
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,ps,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,ps,py,vscode,wordpress&perline=14" />
   </a>
 </p>

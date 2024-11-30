@@ -6,7 +6,7 @@ console.log('I´m an student of University of Valley')
 
 const test = (str) => str + '¯\_(ツ)_/¯';
 ```
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+<img align="right" height="150rem" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 <!--Tecnologias-->
 <div id="user-content-toc">

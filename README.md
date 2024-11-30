@@ -17,7 +17,7 @@ const test = (str) => str + 'test';
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ps,py,vscode,postgres,wordpress,idea,js,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,ps,py,js,vscode,postgres,wordpress,idea,figma&perline=14" />
   </a>
 </p>
 

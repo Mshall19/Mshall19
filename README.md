@@ -6,7 +6,7 @@ console.log('I´m an student of University of Valley')
 
 const test = (str) => str + '¯\_(ツ)_/¯';
 ```
-<img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+<img align="right" width="400" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 <!--Tecnologias-->
 <div id="user-content-toc">
@@ -17,8 +17,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&perline=14&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ps,py,js,vscode,postgres,wordpress,idea,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java&theme=light,ps,py,js,vscode,postgres,wordpress,idea,figma&perline=14" />
   </a>
 </p>
 

@@ -18,8 +18,9 @@ const test = (str) => str + '¯\_(ツ)_/¯';
               <ul align="center">
                 <summary><h2 style="display: inline-block">Tools & Technologies That I Know👨🏻‍💻</h2></summary>
                 <a href="https://skillicons.dev">
-                  <img src="https://skillicons.dev/icons?i=java,ps,py,js,git&perline=14" />
-                  <img src="https://skillicons.dev/icons?i=vscode,postgres,wordpress,idea,figma&perline=14" />
+                  <img src="https://skillicons.dev/icons?i=java,ps,py&perline=14" />
+                  <img src="https://skillicons.dev/icons?i=js,git,vscode&perline=14" />
+                  <img src="https://skillicons.dev/icons?i=postgres,wordpress,figma&perline=14" />
                 </a>
                 <summary><h3 style="display: inline-block">Other Tools & Technologies</h3></summary>
                 <div id="user-content-toc">

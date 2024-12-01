@@ -18,7 +18,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
               <ul align="center">
                 <summary><h2 style="display: inline-block">Tools & Technologies That I Know👨🏻‍💻</h2></summary>
                 <a href="https://skillicons.dev">
-                  <img src="https://skillicons.dev/icons?i=java,c,postgres,ps,js,git,vscode,py,wordpress,html,figma&theme=light&perline=3" />
+                  <img src="https://skillicons.dev/icons?i=java,c,py,ps,js,postgres,git,vscode,wordpress,html,figma&theme=light&perline=3" />
                 </a>
                 <summary><h3 style="display: inline-block">Other Tools & Technologies</h3></summary>
                 <div id="user-content-toc">

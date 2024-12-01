@@ -10,6 +10,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 <div>
   <a align="left">
+    <img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
     <!--Tecnologias-->
     <div id="user-content-toc">
       <ul align="center">
@@ -42,7 +43,6 @@ const test = (str) => str + '¯\_(ツ)_/¯';
   </a>  
 </div>
 
-<img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 
 

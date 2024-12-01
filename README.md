@@ -27,10 +27,11 @@ const test = (str) => str + '¯\_(ツ)_/¯';
   </ul>
 </div>
 
-<p align="center">
-    <img src="[(https://img.shields.io/badge/made_with-Unity-FFFFFF.svg?style=for-the-badge&logo=unity)](https://unity3d.com)" />
+<div id="user-content-toc">
+  <a href="https://www.linkedin.com/in/daltonlima/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
   </a>
-</p>
+</div>
 
 
 <div id="user-content-toc">

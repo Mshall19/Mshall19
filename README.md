@@ -31,9 +31,10 @@ const test = (str) => str + '¯\_(ツ)_/¯';
   <img src="https://img.shields.io/badge/blockbench-1E93D9.svg?&style=for-the-badge&logo=blockbench&logoColor=white"/>
   <img src="https://img.shields.io/badge/wondershare filmora-07273D.svg?&style=for-the-badge&logo=wondersharefilmora&logoColor=white"/>
   <img src="https://img.shields.io/badge/obsstudio-302E31.svg?&style=for-the-badge&logo=obsstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
-
+<!--Contacto-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
@@ -43,14 +44,6 @@ const test = (str) => str + '¯\_(ツ)_/¯';
     </a>
   </ul>
 </div>
-
-<!--Contacto-->
-<div id="user-content-toc">
-  <ul align="center">
-    
-  </ul>  
-</div>
-
 
 
 Credit: [Mshall19](https://github.com/Mshall19)

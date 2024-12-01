@@ -34,7 +34,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
   <img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe XD-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe premier-FF61F6.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe premier-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </div>
 
 <!--Contacto-->

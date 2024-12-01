@@ -11,7 +11,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 <!--Tecnologias-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tools & Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -20,6 +20,12 @@ const test = (str) => str + '¯\_(ツ)_/¯';
     <img src="https://skillicons.dev/icons?i=java,ps,py,js,vscode,postgres,wordpress,idea,figma&perline=14" />
   </a>
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Other Tools & Technologies</h3></summary>
+  </ul>
+</div>
 
 
 <div id="user-content-toc">

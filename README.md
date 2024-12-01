@@ -28,7 +28,9 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 </div>
 
 <div id="user-content-toc">
-    <img src="https://img.shields.io/badge/blockbench-1E93D9.svg?&style=for-the-badge&logo=blockbench&logoColor=white" />
+  <img src="https://img.shields.io/badge/blockbench-1E93D9.svg?&style=for-the-badge&logo=blockbench&logoColor=white"/>
+  <img src="https://img.shields.io/badge/wondersharefilmora-07273D.svg?&style=for-the-badge&logo=wondersharefilmora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/obsstudio-302E31.svg?&style=for-the-badge&logo=obsstudio&logoColor=white"/>
 </div>
 
 

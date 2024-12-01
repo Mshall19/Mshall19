@@ -42,10 +42,12 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 <!--Contacto-->
 <div id="user-content-toc">
-  <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="https://x.com/Wandeer__" height="50" width="50" />
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/judape.z_11/" height="50" width="50" />
-  </a>
+  <ul align="center">
+    <a href="https://skillicons.dev">
+      <a href="https://twitter.com/Marahall_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
+      <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
+    </a>
+  </ul>  
 </div>
 
 

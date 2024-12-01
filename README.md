@@ -41,11 +41,11 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 </div>
 
 <!--Contacto-->
-<p align="center">
+<div id="user-content-toc">
 <a href="https://skillicons.dev">
 <a href="https://twitter.com/Marahall_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
-</p>
+</div>
 
 
 

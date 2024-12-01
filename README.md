@@ -13,16 +13,19 @@ const test = (str) => str + '¯\_(ツ)_/¯';
   <ul align="center">
     <summary><h2 style="display: inline-block">Tools & Technologies That I Know👨🏻‍💻</h2></summary>
     <div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Other Tools & Technologies</h3></summary>
-  </ul>
-</div>
-    
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,ps,py,js,git,vscode,postgres,wordpress,idea,figma&perline=14" />
   </a>
 </p>
+
+      
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Other Tools & Technologies</h3></summary>
+  </ul>
+</div>
+    
+
 
 <div id="user-content-toc">
   <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>

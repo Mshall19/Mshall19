@@ -37,16 +37,17 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <a href="https://skillicons.dev">
+      <a href="https://twitter.com/Marahall_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
+      <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
+    </a>
   </ul>
 </div>
 
 <!--Contacto-->
 <div id="user-content-toc">
   <ul align="center">
-    <a href="https://skillicons.dev">
-      <a href="https://twitter.com/Marahall_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
-      <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
-    </a>
+    
   </ul>  
 </div>
 

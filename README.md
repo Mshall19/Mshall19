@@ -6,10 +6,10 @@ console.log('I´m an student of University of Valley')
 
 const test = (str) => str + '¯\_(ツ)_/¯';
 ```
-<img align="left" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+<img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 <div>
-  <a align="right">
+  <a align="left">
     <!--Tecnologias-->
     <div id="user-content-toc">
       <ul align="center">

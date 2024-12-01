@@ -12,16 +12,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tools & Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ps,py,js,git,vscode,postgres,wordpress,idea,figma&perline=14" />
-  </a>
-</p>
-
-<div id="user-content-toc">
+    <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block">Other Tools & Technologies</h3></summary>
   </ul>
@@ -47,6 +38,16 @@ const test = (str) => str + '¯\_(ツ)_/¯';
     </a>
   </ul>
 </div>
+
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ps,py,js,git,vscode,postgres,wordpress,idea,figma&perline=14" />
+  </a>
+</p>
+
 
 
 Credit: [Mshall19](https://github.com/Mshall19)

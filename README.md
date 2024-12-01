@@ -17,7 +17,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&theme=light,ps,py,js,vscode,postgres,wordpress,idea,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,ps,py,js,git,vscode,postgres,wordpress,idea,figma&perline=14" />
   </a>
 </p>
 
@@ -28,11 +28,11 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 </div>
 
 <div id="user-content-toc">
+  <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/blockbench-1E93D9.svg?&style=for-the-badge&logo=blockbench&logoColor=white"/>
   <img src="https://img.shields.io/badge/wondershare filmora-07273D.svg?&style=for-the-badge&logo=wondersharefilmora&logoColor=white"/>
   <img src="https://img.shields.io/badge/obsstudio-302E31.svg?&style=for-the-badge&logo=obsstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe XD-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe premier-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </div>

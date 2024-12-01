@@ -32,12 +32,15 @@ const test = (str) => str + '¯\_(ツ)_/¯';
   <img src="https://img.shields.io/badge/wondershare filmora-07273D.svg?&style=for-the-badge&logo=wondersharefilmora&logoColor=white"/>
   <img src="https://img.shields.io/badge/obsstudio-302E31.svg?&style=for-the-badge&logo=obsstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe XD-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe premier-FF61F6.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </div>
 
 <!--Contacto-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contac With Me🤝</h2></summary>
     <a href="https://skillicons.dev">
       <a href="https://twitter.com/Marahall_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
       <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>

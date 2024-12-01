@@ -28,7 +28,6 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/blockbench-#1E93D9.svg?style=for-the-badge&logo=unity)](https://blockbench.com)" />
   </a>
 </p>

@@ -28,8 +28,8 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 </div>
 
 <div id="user-content-toc">
-  <a href="https://www.linkedin.com/in/daltonlima/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
+  <a href="https://www.blockbench.net/">
+    <img src="https://img.shields.io/badge/blockbench-%230077B5.svg?&style=for-the-badge&logo=blockbench"  alt="https://www.blockbench.net/"/>
   </a>
 </div>
 

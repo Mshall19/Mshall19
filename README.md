@@ -6,11 +6,10 @@ console.log('I´m an student of University of Valley')
 
 const test = (str) => str + '¯\_(ツ)_/¯';
 ```
-
+<picture><img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/></picture>
 
 <div>
   <a align="left">
-    <img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
     <!--Tecnologias-->
     <div id="user-content-toc">
       <ul align="center">
@@ -33,10 +32,10 @@ const test = (str) => str + '¯\_(ツ)_/¯';
     <!--Contacto-->
     <div id="user-content-toc">
       <ul align="center">
-        <summary><h2 style="display: inline-block">Contac With Me🤝</h2></summary>
+        <summary><h2 style="display: inline-block">Contact With Me🤝</h2></summary>
         <a href="https://skillicons.dev">
-          <a href="https://twitter.com/Marahall_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
-          <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
+          <a href="https://twitter.com/Marahall_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50"/></a> 
+          <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50"/></a>
         </a>
       </ul>
     </div>

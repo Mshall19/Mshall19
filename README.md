@@ -17,6 +17,12 @@ const test = (str) => str + '¯\_(ツ)_/¯';
     <summary><h3 style="display: inline-block">Other Tools & Technologies</h3></summary>
   </ul>
 </div>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ps,py,js,git,vscode,postgres,wordpress,idea,figma&perline=14" />
+  </a>
+</p>
 
 <div id="user-content-toc">
   <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -41,12 +47,6 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
   </ul>
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ps,py,js,git,vscode,postgres,wordpress,idea,figma&perline=14" />
-  </a>
-</p>
 
 
 

@@ -42,9 +42,6 @@ const test = (str) => str + '¯\_(ツ)_/¯';
               </ul>
             </div>
       </td>
-      <td>
-        <img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
-      </td>
     </tr>
   </table>
 </div>

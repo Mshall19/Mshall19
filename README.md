@@ -36,7 +36,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
               <ul align="center">
                 <summary><h2 style="display: inline-block">Contact With Me🤝</h2></summary>
                 <a href="https://skillicons.dev">
-                  <a href="www.linkedin.com/in/juan-david-pérez-valencia-ab2994218" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50"/></a> 
+                  <a href="https://www.linkedin.com/in/juan-david-p%C3%A9rez-valencia-ab2994218/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50"/></a> 
                   <a href="https://www.instagram.com/judape.z_11/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50"/></a>
                 </a>
               </ul>

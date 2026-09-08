@@ -11,7 +11,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
   <!--Tecnologias-->
   <div id="user-content-toc">
-    <h2>Tools & Technologies That I Know👨🏻‍💻</h2>
+    <h2>Tools & Technologies That I Know👨</h2>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,css,cs,idea,postman,py,ps,js,postgres,git,vscode,wordpress,html,figma&theme=dark&perline=5" />
     </a>
@@ -27,7 +27,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
   <br/>
   <!--Contacto-->
   <div id="user-content-toc">
-    <h2>Contact With Me🤝</h2>
+    <h2>Contact With Me</h2>
     <a href="https://www.linkedin.com/in/juan-david-p%C3%A9rez-valencia-ab2994218/" target="_blank">
       <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50"/>
     </a>

@@ -46,7 +46,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 Credit: [judapez11](https://github.com/judapez11)
 <br/>
-[Descarga mi Hoja de Vida](./assets/CV_JuanDavidPerez.pdf)
+[Mi CV](./assets/CV_JuanDavidPerez.pdf)
 
 
 Last Edited on: 8/9/2026 

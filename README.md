@@ -47,6 +47,6 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 
 
-Credit: [judapez11([https://github.com/Mshall19](https://github.com/judapez11))
+Credit: [judapez11[https://github.com/judapez11]
 
 Last Edited on: 8/9/2026

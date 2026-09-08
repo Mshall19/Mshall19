@@ -24,7 +24,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
       <img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
     </div>
   </div>
-
+  <br/>
   <!--Contacto-->
   <div id="user-content-toc">
     <h2>Contact With Me🤝</h2>
@@ -45,7 +45,9 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 
 Credit: [judapez11](https://github.com/judapez11)
-
+<a href="./assets/CV_JuanDavidPerez.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Hoja%20de%20Vida-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
 
 Last Edited on: 8/9/2026 

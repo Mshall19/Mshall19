@@ -45,9 +45,7 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 
 
 Credit: [judapez11](https://github.com/judapez11)
-<a href="./assets/CV_JuanDavidPerez.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Hoja%20de%20Vida-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+[Descarga mi Hoja de Vida](./assets/CV_JuanDavidPerez.pdf)
 
 
 Last Edited on: 8/9/2026 

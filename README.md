@@ -8,11 +8,11 @@ const test = (str) => str + '¯\_(ツ)_/¯';
 ```
 
 <div>
-  <table>
+  <table width="100%">
     <tr>
       <td>
         <div>
-          <a align="left">
+          <a align="center">
             <!--Tecnologias-->
             <div id="user-content-toc">
               <ul align="center">
